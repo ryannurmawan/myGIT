@@ -1,3 +1,4 @@
 My GIT repo
 Mulai hari ini saya memulai belajar mengenai GIT di GITHUB.
 Sehari maximal 2 jam.
+Harus mampu memahami 2 bulan paham GIT
