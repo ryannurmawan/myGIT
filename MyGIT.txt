@@ -1,0 +1,3 @@
+My GIT repo
+Mulai hari ini saya memulai belajar mengenai GIT di GITHUB.
+Sehari maximal 2 jam.
